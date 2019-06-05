@@ -81,7 +81,7 @@ export default {
 
       this.new_price = this.setTransfer(
         this.old_price,
-        this.rates.rates[0].mid.toPrecision(4)
+        this.rates.rates[0].mid
       );
     },
     setTransfer: function(price, rate) {
