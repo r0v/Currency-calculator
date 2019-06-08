@@ -16,6 +16,7 @@
     "buefy": "^0.7.4",
     "core-js": "^2.6.5",
     "currency-symbol-map": "^4.0.4",
+    "querystringify": "^2.1.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
